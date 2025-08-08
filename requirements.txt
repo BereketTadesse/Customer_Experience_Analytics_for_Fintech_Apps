@@ -5,5 +5,5 @@ cx-Oracle
 google-play-scraper
 wordcloud
 transformers
-torch=
+torch
 spacy

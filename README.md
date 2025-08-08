@@ -64,14 +64,14 @@ This project was executed in four distinct tasks, from data collection to final 
 
 1.  **Clone the Repository:**
     ```bash
-    git clone https://github.com/your-username/your-repo-name.git
+    git clone https://github.com/BereketTadesse/Customer_Experience_Analytics_for_Fintech_Apps
     cd your-repo-name
     ```
 
 2.  **Set Up Environment:**
     ```bash
     python -m venv venv
-    source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
+    venv\Scripts\activate`
     ```
 
 3.  **Install Dependencies:**
